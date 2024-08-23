@@ -1,5 +1,6 @@
 # 💫 About Me:
-👩🏻‍💻 Data Analyst on a Mission to Transform Data into Actionable Insights<br>Welcome to my corner of GitHub! I'm passionate about leveraging data to drive impactful decisions and solutions. Here, you'll find my journey, projects, and the continuous learning path I’m on in the world of tech.<br><br>📚 Education: Studied Artificial Intelligence at the Islamia University of Bahawalpur<br>🎓 Learning: Currently diving deep into data analytics and database engineering on Coursera<br>🔍 Exploring: Spreadsheets, SQL, R, Python, Power BI, Tableau, and more<br>🚀 Goal: Mastering the art of turning raw data into powerful, actionable insights<br>Feel free to explore my projects and connect with me!
+👩🏻‍💻 Data Analyst on a Mission to Transform Data into Actionable Insights
+<br>Welcome to my corner of GitHub! I'm passionate about leveraging data to drive impactful decisions and solutions. Here, you'll find my journey, projects, and the continuous learning path I’m on in the world of tech.<br><br>📚 Education: Studied Artificial Intelligence at the Islamia University of Bahawalpur<br>🎓 Learning: Currently diving deep into data analytics and database engineering on Coursera<br>🔍 Exploring: Spreadsheets, SQL, R, Python, Power BI, Tableau, and more<br>🚀 Goal: Mastering the art of turning raw data into powerful, actionable insights<br>Feel free to explore my projects and connect with me!
 
 
 ## 🌐 Socials:
