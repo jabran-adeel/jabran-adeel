@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm deeply passionate about building intelligent systems t
 🧠 **Core Strengths**: Supervised & unsupervised learning, model evaluation, ML pipelines, feature engineering  
 
 📊 **Analytics Highlight**:  
+
 Completed the **Deloitte Australia Data Analytics Job Simulation** on Forage (May 2025)  
 ✔️ Built dashboards in **Tableau**  
 ✔️ Used **Excel** for classification and drawing business conclusions  
@@ -20,6 +21,7 @@ Feel free to explore my projects and collaborations!
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jabran_adeel) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jabranadeel1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jabran_adeel)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jabranadeel)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
