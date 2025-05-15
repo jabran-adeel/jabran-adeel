@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm deeply passionate about building intelligent systems t
 🎓 **Education**: Studied Artificial Intelligence at The Islamia University of Bahawalpur  
 📘 **Learning Journey**: Currently focusing on advanced Machine Learning concepts & real-world Data Analytics  
 🧠 **Core Strengths**: Supervised & unsupervised learning, model evaluation, ML pipelines, feature engineering  
+
 📊 **Analytics Highlight**:  
 Completed the **Deloitte Australia Data Analytics Job Simulation** on Forage (May 2025)  
 ✔️ Built dashboards in **Tableau**  
