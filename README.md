@@ -11,7 +11,7 @@ I'm a passionate AI practitioner who studied **BS Artificial Intelligence** from
 🔍 Currently exploring:
 - 🧠 Advanced AI & Deep Learning (CNNs, Transformers, RNNs)
 - 🤖 LLM fine-tuning & prompt engineering
-- 💬 Created Generative chatbots using OpenAI, Gemini, and Hugging Face
+- 💬 Generative chatbots using OpenAI, Gemini, and Hugging Face
 - 🌐 Real-world ML apps with production-ready code
 
 ---
