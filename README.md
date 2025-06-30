@@ -1,58 +1,87 @@
-# 💫 About Me:
-### 🤖 Machine Learning Explorer | 📊 Data Analytics Enthusiast
-Welcome to my GitHub! I'm deeply passionate about building intelligent systems that learn from data and drive real-world impact. Whether it's optimizing models, experimenting with neural networks, or turning raw data into actionable visuals—I'm all in.
-
-🎓 **Education**: Studied Artificial Intelligence at The Islamia University of Bahawalpur  
-📘 **Learning Journey**: Currently focusing on advanced Machine Learning concepts & real-world Data Analytics  
-🧠 **Core Strengths**: Supervised & unsupervised learning, model evaluation, ML pipelines, feature engineering  
-
-📊 **Analytics Highlight**:  
-
-Completed the **Deloitte Australia Data Analytics Job Simulation** on Forage (May 2025)  
-✔️ Built dashboards in **Tableau**  
-✔️ Used **Excel** for classification and drawing business conclusions  
-✔️ Gained exposure to forensic technology and real corporate case scenarios  
-🚀 **Goal**: To become a top-tier ML Engineer & Data Analyst by solving meaningful problems through data-driven solutions  
-
-Feel free to explore my projects and collaborations!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabran-adeel)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jabranadeel)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jabran_adeel)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jabranadeel1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jabran_adeel)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jabran-adeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jabran-adeel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jabran-adeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jabran-adeel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Insightful Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jabran-adeel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👋 Hi, I'm Jabran Adeel  
+🎓 B.S. Artificial Intelligence | 💻 AI Engineer | 🧠 LLM & Generative AI Enthusiast
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jabran-adeel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I'm a passionate AI practitioner who studied **BS Artificial Intelligence** from  
+**The Islamia University of Bahawalpur**. My work focuses on building intelligent systems powered by **Large Language Models (LLMs)**, **Generative AI**, and **Deep Learning architectures**.
+
+🔍 Currently exploring:
+- 🧠 Advanced AI & Deep Learning (CNNs, Transformers, RNNs)
+- 🤖 LLM fine-tuning & prompt engineering
+- 💬 Created Generative chatbots using OpenAI, Gemini, and Hugging Face
+- 🌐 Real-world ML apps with production-ready code
+
+---
+
+## 🔧 Skills & Technologies
+
+| Machine Learning        | Generative AI / LLMs     | Tools & Libraries           |
+|-------------------------|--------------------------|-----------------------------|
+| Regression & Classification | GPT-3.5, Gemini Pro & Flash | Python, Scikit-learn        |
+| Model Evaluation        | Prompt Engineering       | OpenAI API, Gemini API      |
+| Feature Engineering     | LangChain (Exploring)    | Requests, Dotenv, REST APIs |
+| EDA & Visualization     | Chatbot Development      | Git, GitHub, VS Code        |
+| Gradient Boosting       | Safety Layering in LLMs  | Streamlit (Basic UI)        |
+
+---
+
+## 📂 Top Projects
+
+### 🧠 [Mental Health Chatbot – Gemini 2.0 Flash](https://github.com/jabran-adeel/Mental-Health-Chatbot-Gemini-2.0-Flash)
+Built using Google’s Gemini REST API with prompt-layered safety and emotional sensitivity.  
+Designed for general-purpose mental health support via real-time AI responses.
+
+---
+
+### 💬 [General Health Chatbot – OpenAI GPT-3.5](https://github.com/jabran-adeel/Health-Chatbot-OpenAI-GPT-3.5)
+A command-line chatbot using OpenAI GPT-3.5 with proper key handling and safe prompt design.  
+Focused on modular architecture and ethical conversational AI.
+
+---
+
+### 🏠 [House Price Prediction – ML Regression](https://github.com/jabran-adeel/House-Price-Prediction)
+Built regression models (Linear & Gradient Boosting) to predict property prices based on engineered features.  
+Included full ML pipeline: EDA, scaling, evaluation, and visualizations.
+
+---
+
+### 📈 [Stock Price Prediction – AAPL](https://github.com/jabran-adeel/Stock-Price-Prediction)
+Used `yfinance` to pull historical stock data and predict the next day’s closing price.  
+Trained a linear regression model and evaluated using MAE/RMSE metrics.
+
+---
+
+### ❤️ [Heart Disease Prediction – Logistic Regression](https://github.com/jabran-adeel/Heart-Disease-Prediction)
+Built a health risk classifier using the UCI dataset.  
+Included ROC curve, confusion matrix, and detailed model interpretation.
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 LLM fine-tuning (Gemini/OpenAI/LLama models)
+- 🔐 AI safety & hallucination prevention
+- 📚 Advanced topics in Deep Learning
+- 🧠 Building mini AGI agents (exploring LangChain, vector DBs, etc.)
+
+---
+
+## 📬 Let's Connect
+
+I'm open to collaboration, internships, research, and freelance opportunities in:
+- Generative AI
+- Deep Learning
+- LLM-based Applications
+- Ethical AI & Chatbot Systems
+
+📫 **Email**: jabranadeel1@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/jabranadeel](https://linkedin.com/in/jabran-adeel)  
+🌐 **GitHub**: [github.com/jabran-adeel](https://github.com/jabran-adeel)
+
+---
+
+> ⚡ “AI isn't the future. It's the present — and I’m building it.”
+
