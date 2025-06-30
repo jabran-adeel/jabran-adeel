@@ -78,7 +78,7 @@ I'm open to collaboration, internships, research, and freelance opportunities in
 - Ethical AI & Chatbot Systems
 
 📫 **Email**: jabranadeel1@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/jabranadeel](https://linkedin.com/in/jabran-adeel)  
+🔗 **LinkedIn**: [linkedin.com/in/jabran-adeel](https://linkedin.com/in/jabran-adeel)  
 🌐 **GitHub**: [github.com/jabran-adeel](https://github.com/jabran-adeel)
 
 ---
